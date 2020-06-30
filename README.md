@@ -34,5 +34,4 @@ O objetivo do curso é apresentar Markdown como uma forma de melhorar a maneira 
 
 ## Autor
 > **Roberto Achar**  
-> [twitter](https://twitter.com/robertoachar "@RobertoAchar")  
-> [Youtube](https://www.youtube.com/user/robertoachar "Roberto Achar")
+
